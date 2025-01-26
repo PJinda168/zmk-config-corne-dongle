@@ -2,12 +2,12 @@
 
 ## Default Layer
 
-![default_image](/images/default_layer.jpg)
+![default_image](https://github.com/DarrenVictoriano/zmk-config/blob/master/images/default_layer.png)
 
 ## Lower Layer
 
-![default_image](/images/lower_layer.jpg)
+![lower_image](https://github.com/DarrenVictoriano/zmk-config/blob/master/images/lower_layer.png)
 
 ## Raise Layer
 
-![default_image](/images/raise_layer.jpg)
+![raise_image](https://github.com/DarrenVictoriano/zmk-config/blob/master/images/raise_layer.png)
