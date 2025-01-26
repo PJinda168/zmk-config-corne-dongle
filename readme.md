@@ -1,6 +1,7 @@
 # ZMK Corne Keyboard Layout
 
 These are the keymaps and layers defined in this config.
+The keymaps were generated using [Nick Coutsos's Keymap Editor](https://nickcoutsos.github.io/keymap-editor/).
 
 ## Default Layer
 
