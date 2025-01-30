@@ -19,20 +19,20 @@
 #
 ---
 include:
-  # xiao_dongle
-  - board: seeeduino_xiao_ble
-    shield: corne_dongle_xiao
-    snippet: studio-rpc-usb-uart
-    artifact-name: xiao_dongle
-
   # nice_nano_v2 + nice_view
   - board: nice_nano_v2
     shield: corne_left nice_view_adapter nice_view
-    artifact-name: nice_corne_left_view
   - board: nice_nano_v2
     shield: corne_right nice_view_adapter nice_view
-    artifact-name: nice_corne_right_view
-  
+
+  # xiao_dongle
+  - board: seeeduino_xiao_ble
+    shield: corne_dongle
+    # snippet: studio-rpc-usb-uart
+    # artifact-name: xiao_dongle
+  - board: nice_nano_v2
+    shield: corne_peripheral_left nice_view_adapter nice_view
+
   # reset_settings
   - board: nice_nano_v2
     shield: settings_reset
@@ -40,4 +40,3 @@ include:
   - board: seeeduino_xiao_ble
     shield: settings_reset
     artifact-name: xiao_reset_settings
-
