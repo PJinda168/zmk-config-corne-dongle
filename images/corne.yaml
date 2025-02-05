@@ -1,0 +1,90 @@
+layout: {qmk_keyboard: corne_rotated, layout_name: LAYOUT_split_3x6_3}
+layers:
+  default: [↹, Q, W, E, R, T, Y, U, I, O, P, '$$mdi:backspace-outline$$', '$$mdi:apple-keyboard-control$$', A, S, D, F, G, H, J, K, L, ;, ENTER, '$$mdi:apple-keyboard-shift$$',
+    Z, X, C, V, B, N, M, ',', ., /, Esc, '$$mdi:apple-keyboard-command$$', lower, ␣, ␣, raise, '$$mdi:apple-keyboard-option$$']
+  lower:
+  - Win Prev
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+  - '0'
+  - $$mdi:backspace-outline$$
+  - $$mdi:apple-keyboard-control$$
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - LEFT ARROW
+  - DOWN ARROW
+  - UP ARROW
+  - RIGHT ARROW
+  - ''
+  - ENTER
+  - $$mdi:apple-keyboard-shift$$
+  - BT 1
+  - BT 2
+  - BT 3
+  - BT 4
+  - BT 5
+  - BT CLR
+  - ''
+  - ''
+  - ''
+  - ''
+  - Esc
+  - $$mdi:apple-keyboard-command$$
+  - {t: lower, type: held}
+  - ␣
+  - ␣
+  - raise
+  - $$mdi:apple-keyboard-option$$
+  raise:
+  - Tab Right
+  - '!'
+  - '@'
+  - '#'
+  - $
+  - '%'
+  - ^
+  - AMPERSAND
+  - '*'
+  - +
+  - '='
+  - $$mdi:backspace-outline$$
+  - $$mdi:apple-keyboard-control$$
+  - '`'
+  - '~'
+  - '{'
+  - '['
+  - (
+  - )
+  - ']'
+  - '}'
+  - \
+  - '|'
+  - ENTER
+  - $$mdi:apple-keyboard-shift$$
+  - ''
+  - ''
+  - ''
+  - ''''
+  - '-'
+  - _
+  - '"'
+  - ''
+  - ''
+  - ''
+  - RIGHT SHIFT
+  - $$mdi:apple-keyboard-command$$
+  - lower
+  - ␣
+  - ␣
+  - {t: raise, type: held}
+  - $$mdi:apple-keyboard-option$$
