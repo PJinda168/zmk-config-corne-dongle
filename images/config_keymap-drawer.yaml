@@ -436,6 +436,8 @@ parse_config:
     RCMD: $$mdi:apple-keyboard-command$$
     RGUI: $$mdi:apple-keyboard-command$$
     LS(LC(LALT)): $$mdi:triangle$$ # Meh
+    lower_layer: ⇣
+    raise_layer: ⇡
 
     # Arrows
     UP: $$mdi:arrow-up-bold$$
@@ -451,6 +453,7 @@ parse_config:
     BSPC: $$mdi:backspace$$
     RET: $$mdi:keyboard-return$$
     DEL: $$mdi:backspace-reverse-outline$$
+    DELETE: $$mdi:backspace-reverse-outline$$
     INS: Insert
     HOME: Home
     END: End
@@ -574,3 +577,4 @@ parse_config:
       draw_separate: true
   zmk_preamble: "#define KEYMAP_DRAWER"
   zmk_additional_includes: []
+

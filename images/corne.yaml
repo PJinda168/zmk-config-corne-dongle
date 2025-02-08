@@ -15,7 +15,7 @@ layers:
   - '8'
   - '9'
   - '0'
-  - DELETE
+  - $$mdi:backspace-reverse-outline$$
   - $$mdi:apple-keyboard-control$$
   - ''
   - ''
@@ -58,7 +58,7 @@ layers:
   - '*'
   - +
   - '='
-  - DELETE
+  - $$mdi:backspace-reverse-outline$$
   - $$mdi:apple-keyboard-control$$
   - '`'
   - '~'
