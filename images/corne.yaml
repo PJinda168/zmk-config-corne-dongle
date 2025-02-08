@@ -1,0 +1,90 @@
+layout: {qmk_keyboard: corne_rotated, layout_name: LAYOUT_split_3x6_3}
+layers:
+  default: [↹, Q, W, E, R, T, Y, U, I, O, P, '$$mdi:backspace-outline$$', '$$mdi:apple-keyboard-control$$', A, S, D, F, G, H, J, K, L, ;, ENTER, '$$mdi:apple-keyboard-shift$$',
+    Z, X, C, V, B, N, M, ',', ., /, '$$mdi:apple-keyboard-shift$$', '$$mdi:apple-keyboard-command$$', lower, ␣, ␣, raise, '$$mdi:apple-keyboard-option$$']
+  lower:
+  - ESCAPE
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+  - '0'
+  - DELETE
+  - $$mdi:apple-keyboard-control$$
+  - ''
+  - ''
+  - Ctl+Sft+↹
+  - Ctl+↹
+  - Gui+Sft+J
+  - LEFT ARROW
+  - DOWN ARROW
+  - UP ARROW
+  - RIGHT ARROW
+  - ''
+  - ENTER
+  - $$mdi:apple-keyboard-shift$$
+  - ''
+  - ''
+  - ''
+  - ''
+  - Gui+Alt+␣
+  - Vol Down
+  - Vol Up
+  - ''
+  - ''
+  - ''
+  - $$mdi:apple-keyboard-shift$$
+  - $$mdi:apple-keyboard-command$$
+  - {t: lower, type: held}
+  - ␣
+  - ␣
+  - raise
+  - $$mdi:apple-keyboard-option$$
+  raise:
+  - ESCAPE
+  - '!'
+  - '@'
+  - '#'
+  - $
+  - '%'
+  - ^
+  - AMPERSAND
+  - '*'
+  - +
+  - '='
+  - DELETE
+  - $$mdi:apple-keyboard-control$$
+  - '`'
+  - '~'
+  - '{'
+  - '['
+  - (
+  - )
+  - ']'
+  - '}'
+  - \
+  - '|'
+  - ENTER
+  - $$mdi:apple-keyboard-shift$$
+  - ''
+  - ''
+  - ''
+  - ''''
+  - '"'
+  - _
+  - '-'
+  - ''
+  - ''
+  - ''
+  - $$mdi:apple-keyboard-shift$$
+  - $$mdi:apple-keyboard-command$$
+  - lower
+  - ␣
+  - ␣
+  - {t: raise, type: held}
+  - $$mdi:apple-keyboard-option$$
