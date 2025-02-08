@@ -21,7 +21,7 @@ layers:
   - ''
   - ↤
   - ↦
-  - ✢
+  - Cmd + Shift + J
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-down-bold$$
   - $$mdi:arrow-up-bold$$
@@ -33,7 +33,7 @@ layers:
   - ''
   - ''
   - ''
-  - ‡
+  - Cmd + Opt + ⎵
   - $$mdi:volume-low$$
   - $$mdi:volume-high$$
   - ''
