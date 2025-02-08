@@ -442,9 +442,7 @@ parse_config:
     LG(LS(J)): "✢"
     LG(LA(SPACE)): "‡"
     LOWER: "⤓"
-    "1": "⤓"
     RAISE: "⤒"
-    "2": "⤒"
 
     # Arrows
     UP: $$mdi:arrow-up-bold$$
