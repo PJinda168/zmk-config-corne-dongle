@@ -437,10 +437,10 @@ parse_config:
     RGUI: $$mdi:apple-keyboard-command$$
     LS(LC(LALT)): $$mdi:triangle$$ # Meh
 
-    RC(RS(TAB)): "↤"
-    RC(TAB): "↦"
-    LG(LS(J)): "Cmd + Shift + J"
-    LG(LA(SPACE)): "Cmd + Opt + ⎵"
+    RC(RS(TAB)): "⌃⇧⇥"
+    RC(TAB): "⌃⇥"
+    LG(LS(J)): "⌘⇧J"
+    LG(LA(SPACE)): "⌘⌥⎵"
     LOWER: "⤓"
     RAISE: "⤒"
 
