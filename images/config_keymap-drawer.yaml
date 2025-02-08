@@ -436,8 +436,13 @@ parse_config:
     RCMD: $$mdi:apple-keyboard-command$$
     RGUI: $$mdi:apple-keyboard-command$$
     LS(LC(LALT)): $$mdi:triangle$$ # Meh
-    LOWER: ⇣
-    RAISE: ⇡
+
+    RC(RS(TAB)): "↤"
+    RC(TAB): "↦"
+    LG(LS(J)): "✢"
+    LG(LA(SPACE)): "‡"
+    LOWER: "⤓"
+    RAISE: "⤒"
 
     # Arrows
     UP: $$mdi:arrow-up-bold$$

@@ -19,9 +19,9 @@ layers:
   - $$mdi:apple-keyboard-control$$
   - ''
   - ''
-  - Ctl+Sft+$$mdi:keyboard-tab$$
-  - Ctl+$$mdi:keyboard-tab$$
-  - Gui+Sft+J
+  - ↤
+  - ↦
+  - ✢
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-down-bold$$
   - $$mdi:arrow-up-bold$$
@@ -33,7 +33,7 @@ layers:
   - ''
   - ''
   - ''
-  - Gui+Alt+$$mdi:keyboard-space$$
+  - ‡
   - $$mdi:volume-low$$
   - $$mdi:volume-high$$
   - ''
