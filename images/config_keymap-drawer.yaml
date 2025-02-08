@@ -439,8 +439,8 @@ parse_config:
 
     RC(RS(TAB)): "↤"
     RC(TAB): "↦"
-    LG(LS(J)): "✢"
-    LG(LA(SPACE)): "‡"
+    LG(LS(J)): "Cmd + Shift + J"
+    LG(LA(SPACE)): "Cmd + Opt + ⎵"
     LOWER: "⤓"
     RAISE: "⤒"
 
