@@ -19,9 +19,9 @@ layers:
   - $$mdi:apple-keyboard-control$$
   - ''
   - ''
-  - ↤
-  - ↦
-  - ✢
+  - ⌃⇧⇥
+  - ⌃⇥
+  - ⌘⇧J
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-down-bold$$
   - $$mdi:arrow-up-bold$$
@@ -33,7 +33,7 @@ layers:
   - ''
   - ''
   - ''
-  - ‡
+  - ⌘⌥⎵
   - $$mdi:volume-low$$
   - $$mdi:volume-high$$
   - ''
