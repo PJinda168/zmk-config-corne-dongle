@@ -38,7 +38,7 @@ layers:
   - ''
   - ''
   - ''
-  - RSHIFT
+  - $$mdi:apple-keyboard-shift$$
   - $$mdi:apple-keyboard-command$$
   - {t: lower, type: held}
   - ␣
@@ -81,7 +81,7 @@ layers:
   - ''
   - ''
   - ''
-  - RSHIFT
+  - $$mdi:apple-keyboard-shift$$
   - $$mdi:apple-keyboard-command$$
   - lower
   - ␣
