@@ -31,8 +31,8 @@
 
         raise_layer {
             bindings = <
-&kp ESCAPE  &kp EXCL   &kp AT     &kp POUND       &kp DOLLAR        &kp PERCENT             &kp CARET              &kp AMPERSAND      &kp STAR         &kp PLUS       &kp EQUAL  &kp DELETE
-&kp LCTRL   &kp GRAVE  &kp TILDE  &kp LEFT_BRACE  &kp LEFT_BRACKET  &kp LEFT_PARENTHESIS    &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACKET  &kp RIGHT_BRACE  &kp BACKSLASH  &kp PIPE   &kp ENTER
+&kp ESCAPE  &kp EXCL   &kp AT     &kp POUND       &kp DOLLAR        &kp PERCENT             &kp CARET              &kp AMPS           &kp STAR         &kp PLUS       &kp EQUAL  &kp DELETE
+&kp LCTRL   &kp GRAVE  &kp TILDE  &kp LEFT_BRACE  &kp LEFT_BRACKET  &kp LEFT_PARENTHESIS    &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACKET  &kp RIGHT_BRACE  &kp BACKSLASH  &kp PIPE   &kp RET
 &kp LSHFT   &none      &none      &none           &kp SQT           &kp DOUBLE_QUOTES       &kp UNDER              &kp MINUS          &none            &none          &none      &kp RSHFT
                                   &kp LGUI        &mo 1             &kp SPACE               &kp SPACE              &mo 2              &kp RALT
             >;
