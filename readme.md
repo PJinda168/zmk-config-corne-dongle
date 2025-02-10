@@ -1,6 +1,6 @@
 # ZMK Corne Keyboard Layout
 
-This this my personal zmk config, the firmware is built to work with the following devices.
+This this my personal [zmk](https://github.com/zmkfirmware/zmk) config for my [corne keyboard](https://github.com/foostan/crkbd), the firmware is built to work with the following devices.
 
 - Keyboard: Corne 6 column
 - Controller: nice!nano v2 + nice!view (for both left and right keyboard)
