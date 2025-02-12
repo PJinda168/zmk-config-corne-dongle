@@ -5,14 +5,14 @@ layers:
     '$$mdi:keyboard-space$$', raise, '$$mdi:apple-keyboard-option$$']
   lower:
   - $$mdi:keyboard-esc$$
-  - ''
+  - Tab Left
   - '7'
   - '8'
   - '9'
-  - '0'
-  - ''
-  - Tab Left
   - Tab Right
+  - ⌘⇧J
+  - ''
+  - ''
   - ''
   - ''
   - $$mdi:backspace-reverse-outline$$
@@ -21,7 +21,7 @@ layers:
   - '4'
   - '5'
   - '6'
-  - ⌘⇧J
+  - ''
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-down-bold$$
   - $$mdi:arrow-up-bold$$
@@ -33,7 +33,7 @@ layers:
   - '1'
   - '2'
   - '3'
-  - ⌘⌥⎵
+  - '0'
   - $$mdi:volume-low$$
   - $$mdi:volume-high$$
   - ''
@@ -43,7 +43,7 @@ layers:
   - $$mdi:apple-keyboard-command$$
   - {t: lower, type: held}
   - $$mdi:keyboard-space$$
-  - $$mdi:keyboard-space$$
+  - ⌘⌥⎵
   - raise
   - $$mdi:apple-keyboard-option$$
   raise:
