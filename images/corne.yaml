@@ -5,22 +5,22 @@ layers:
     '$$mdi:keyboard-space$$', raise, '$$mdi:apple-keyboard-option$$']
   lower:
   - $$mdi:keyboard-esc$$
-  - '1'
-  - '2'
-  - '3'
-  - '4'
-  - '5'
-  - '6'
+  - ''
   - '7'
   - '8'
   - '9'
   - '0'
+  - ''
+  - Tab Left
+  - Tab Right
+  - ''
+  - ''
   - $$mdi:backspace-reverse-outline$$
   - $$mdi:apple-keyboard-control$$
   - ''
-  - ''
-  - ⌃⇧⇥
-  - ⌃⇥
+  - '4'
+  - '5'
+  - '6'
   - ⌘⇧J
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-down-bold$$
@@ -30,9 +30,9 @@ layers:
   - $$mdi:keyboard-return$$
   - $$mdi:apple-keyboard-shift$$
   - ''
-  - ''
-  - ''
-  - ''
+  - '1'
+  - '2'
+  - '3'
   - ⌘⌥⎵
   - $$mdi:volume-low$$
   - $$mdi:volume-high$$
@@ -47,7 +47,7 @@ layers:
   - raise
   - $$mdi:apple-keyboard-option$$
   raise:
-  - $$mdi:keyboard-esc$$
+  - '`'
   - '!'
   - '@'
   - '#'
@@ -58,27 +58,27 @@ layers:
   - '*'
   - +
   - '='
-  - $$mdi:backspace-reverse-outline$$
+  - '-'
   - $$mdi:apple-keyboard-control$$
-  - '`'
-  - '~'
+  - ''
   - '{'
-  - '['
   - (
-  - )
+  - '['
+  - ''''
+  - '"'
   - ']'
+  - )
   - '}'
   - \
-  - '|'
   - $$mdi:keyboard-return$$
   - $$mdi:apple-keyboard-shift$$
   - ''
   - ''
   - ''
-  - ''''
-  - '"'
+  - ''
+  - ''
   - _
-  - '-'
+  - ''
   - ''
   - ''
   - ''
