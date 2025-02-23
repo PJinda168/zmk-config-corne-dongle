@@ -440,6 +440,7 @@ parse_config:
     RC(RS(TAB)): "⌃⇧⇥"
     RC(TAB): "⌃⇥"
     LG(LS(J)): "⌘⇧J"
+    LG(LSHIFT): "⌘⇧"
     LG(LA(SPACE)): "⌘⌥⎵"
     LOWER: "⤓"
     RAISE: "⤒"
