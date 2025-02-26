@@ -6,6 +6,9 @@ manifest:
       url-base: https://github.com/M165437
     - name: carrefinho                            # <--- add this
       url-base: https://github.com/carrefinho     # <--- and this
+     # nice_oled
+    - name: mctechnology17
+      url-base: https://github.com/mctechnology17
   projects:
     - name: zmk
       remote: zmkfirmware
@@ -17,5 +20,9 @@ manifest:
     - name: prospector-zmk-module                 # <--- and these
       remote: carrefinho                          # <---
       revision: main                              # <---
+    # nice_oled
+    - name: zmk-nice-oled
+      remote: mctechnology17
+      revision: main
   self:
     path: config
